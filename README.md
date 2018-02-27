@@ -1,7 +1,7 @@
 # Shadow Fight 3 Wiki Rarity Coloring Tool
 Shadow fight 3 rarities should be colored for better understanding on the wiki. Fixing them one by one is not the ideal way to do it. For ease and convenience, I created this tool.
 After pasting the source of a page/section in the box, the program will replace every occurance of words "common", "rare", "epic" and "legendary" with `<font color="YOUR_SELECTED_COLOR">Common/Rare/Epic/Legendary</font>` (case insensitive).
-# Requirements
+# Requirements (Desktop version)
 * 16 KB of disk space
 * [Java Runtime Environment](https://java.com/en/download/manual.jsp)
 
