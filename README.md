@@ -5,8 +5,10 @@ After pasting the source of a page/section in the box, the program will replace 
 * 16 KB of disk space
 * [Java Runtime Environment](https://java.com/en/download/manual.jsp)
 
-Download tool from [here](https://github.com/Pentox/RarityColorer_SF_Wiki/raw/master/RarityColoringTool.jar).
+Download desktop version (Windows, Mac, Linux) from [here](https://github.com/Pentox/RarityColorer_SF_Wiki/raw/master/RarityColoringTool.jar).
 
-**NOTE: If your antivirus blocks this application or you are prompted for security reasons, you can safely accept. It only happens because of the low download count. Furtermore, you can decompile the application and check its source code to be sure.**
+Download Android version (APK) from [here](https://github.com/Pentox/RarityColorer_SF_Wiki/raw/master/RarityColoringTool.apk).
+
+**NOTE: If your antivirus blocks the file or you are prompted for security reasons, you can safely accept. It only happens because of the low download count. Furtermore, you can decompile the application and check its source code to be sure.**
 
 Source code can be found [here](https://github.com/Pentox/RarityColorer_SF_Wiki/blob/master/src/com/creative/raritycolorer/RarityColorer.java).
